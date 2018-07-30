@@ -15,4 +15,6 @@
 
 [5 - Creating custom model fields](../../tree/4105d57735597e0709dcc7bf61fe20d567a61fa7/)
 
+[6 - Adding ordering to module and content objects](../../tree/c75f44c48feee8f5445e5ed1308276c0bd0cb6fe/)
+
 
