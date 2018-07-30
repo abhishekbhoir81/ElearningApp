@@ -30,3 +30,5 @@ Create group instructor to take action on CRUD
 
 [11 - Access to view and permission to CRUD](../../tree/a0f4b9a66c15749da4127789318a2f553422cbce/)
 
+[12 - Managing course module and content using formset](../../tree/3368529093181041427af160593e3a58ecfb9a27/)
+
