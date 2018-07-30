@@ -8,3 +8,6 @@
 [1 - Building the course models](../../tree/00932cde4aef4a772693149ec65a23d8f5f0d422/)
 
 [2 - Registering the models in the admin site](../../tree/819a3b7d0eb3f70a3113f003f04c3182c4e693f4/)
+
+[3 - Creating models for diverse content](../../tree/9f034d29205d625d78fbdfd5a12b8a2a492c3e35/)
+
