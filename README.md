@@ -2,6 +2,7 @@
 
 ### Setting up the e-learning project
 
-[Intial Commit](../..//)
+[Intial Commit](../../f2f1e4dc14f4d332b148751f49f099a725d63987/)
 
-[1 - Setting up the e-learning project](../../tree//)
+
+[1 - Building the course models](../../tree//)
