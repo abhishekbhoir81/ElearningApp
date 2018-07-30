@@ -19,3 +19,5 @@
 ### Creating a Content Management System
 
 [7 - Adding an authentication system](../../tree/deeb2df8d1f023441b149ca011c746b2a76ac8a0/)
+
+[8 - Creating the authentication templates](../../tree/19f2f0dfb83939da1e9257f8220cc47e1fc58132/)
