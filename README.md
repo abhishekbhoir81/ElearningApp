@@ -2,8 +2,7 @@
 
 ### Setting up the e-learning project
 
-[Intial Commit](../../tree/f2f1e4dc14f4d332b148751f49f099a725d63987/)
-
+[0 - Intial Commit](../../tree/f2f1e4dc14f4d332b148751f49f099a725d63987/)
 
 [1 - Building the course models](../../tree/00932cde4aef4a772693149ec65a23d8f5f0d422/)
 
@@ -17,4 +16,6 @@
 
 [6 - Adding ordering to module and content objects](../../tree/c75f44c48feee8f5445e5ed1308276c0bd0cb6fe/)
 
+### Creating a Content Management System
 
+[7 - Adding an authentication system](../../tree/deeb2df8d1f023441b149ca011c746b2a76ac8a0/)
