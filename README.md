@@ -34,4 +34,6 @@ Create group instructor to take action on CRUD
 
 [13 - Adding content to course modules](../../tree/47b6c78f3b359825678192eb94fe645914a8fe06/)
 
+[14 - Managing modules and content](../../tree/7619508b0fa91a543e0d5554ef046678d1e899cf/)
+
 
