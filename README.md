@@ -36,4 +36,6 @@ Create group instructor to take action on CRUD
 
 [14 - Managing modules and content](../../tree/7619508b0fa91a543e0d5554ef046678d1e899cf/)
 
+[15 - Reordering Modules and contents Using mixins from django-braces](../../tree/a648e8bbfb819e8037957296cfd4e2eccd58a44a/)
+
 
