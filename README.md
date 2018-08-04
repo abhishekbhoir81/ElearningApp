@@ -48,6 +48,6 @@ Create group instructor to take action on CRUD
 
 [19 - Accessing the course content](../../tree/080c06505b0a6e5abec904423a9ee4f22746e766/)
 
-[20 - ](../../tree/cfb79f2f211a354c55558c54fe3c665aca2cbd9a/)
+[20 - Rendering different types of content](../../tree/cfb79f2f211a354c55558c54fe3c665aca2cbd9a/)
 
 
