@@ -46,4 +46,6 @@ Create group instructor to take action on CRUD
 
 [18 - Enrolling in courses](../../tree/7bb8f297c743359468ddddbc5c3acb4261b323cb/)
 
+[19 - Accessing the course content](../../tree/080c06505b0a6e5abec904423a9ee4f22746e766/)
+
 
