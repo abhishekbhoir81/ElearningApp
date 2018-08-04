@@ -42,4 +42,6 @@ Create group instructor to take action on CRUD
 
 [16 - Displaying Courses](../../tree/9b04660c91fbdcea1371ca52c8db6df5e3664cb5/)
 
+[17 - Creating a student registration view](../../tree/21d87d82ddbbb49a57297a78deda941a5b75fd4a/)
+
 
