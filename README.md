@@ -3,11 +3,11 @@
 * mkdir educa && cd educa
 * virtualenv .
 * .\scripts\activate
-* mkdir src cd src
+* mkdir src && cd src
 * git clone https://github.com/learnwithcode/Building-an-E-learning-platform.git .
 * pip install -r requirements.txt
 * python manage.py migrate
-* python mnage.py createsuperuser
+* python manage.py createsuperuser
 * python manage.py loaddata courses/fixtures/course.json
 * python manage.py runserver
 
