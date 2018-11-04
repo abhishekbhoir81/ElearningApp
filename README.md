@@ -4,7 +4,7 @@
 * virtualenv .
 * .\scripts\activate
 * mkdir src && cd src
-* git clone https://github.com/learnwithcode/Building-an-E-learning-platform.git .
+* git clone https://github.com/learnwithcode/E-learning-platform.git .
 * pip install -r requirements.txt
 * python manage.py migrate
 * python manage.py createsuperuser
